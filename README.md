@@ -11,7 +11,7 @@
 ![RedHat](https://img.shields.io/badge/RedHat-FF0000?style=for-the-badge&logo=RedHat&logoColor=Red)
 ![FreeBSD](https://img.shields.io/badge/FreeBSD-FF0000?style=for-the-badge&logo=FreeBSD&logoColor=Red)
 
-## ⚡ My Tech Stacks
+## ⚡ :hammer_and_wrench: Languages and Tools :
 
 ![Python](https://img.shields.io/badge/-Python-white?style=plastic&logo=Python)
 ![Redis](https://img.shields.io/badge/-Redis-white?style=plastic&logo=Redis)
@@ -32,6 +32,10 @@
 ![Ansible](https://img.shields.io/badge/-Ansible-black?style=plastic&logo=Ansible)
 ![MYSQL](https://img.shields.io/badge/-Mysql-white?style=plastic&logo=Mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-white?style=plastic&logo=MongoDB)
+
+### :fire: My Stats :
+![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pouriatabari&theme=cobalt2&show_icons=true&card_width=495px)
+![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=pouriatabari&show_icons=true&theme=tokyonight)  
 
 ## 🌎 Find me
 - virgol: [virgol posts](https://virgool.io/@ptabari) :mag:
