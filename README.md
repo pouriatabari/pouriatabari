@@ -26,6 +26,7 @@ A 29 years old self-taught DevOps in Iran
 </p>
 
 <p align="center">
+
 ## ⚡ :hammer_and_wrench: Languages and Tools :
 
 ![Python](https://img.shields.io/badge/-Python-white?style=plastic&logo=Python)
@@ -54,12 +55,15 @@ A 29 years old self-taught DevOps in Iran
 ### :fire: My Stats :
 ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pouriatabari&theme=cobalt2&show_icons=true&card_width=495px)
 ![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=pouriatabari&show_icons=true&theme=tokyonight)  
+
 </p>
 <p align="center">
+  
 ## 🌎 Find me
 - virgol: [virgol posts](https://virgool.io/@ptabari) :mag:
 - blog: click [Pouriya-tabari blogs](https://pouriya-tabari.ir/):earth_asia:
 - email:  <a href="mailto:pouriya_tabari@outlook.com">outlook mail</a>:e-mail:
+
 </p>
 
 <!--
