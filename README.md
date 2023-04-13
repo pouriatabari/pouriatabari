@@ -4,9 +4,14 @@
   <img src="https://www.talent-works.com/wp-content/uploads/2021/03/3981-TW-Blog-Why-Hire-a-DevOps-engineer_BLOG-HEADER-1920x629-v1.png" width="1024"/>
 </div>
 
+## ⚡ My Platforms
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![RedHat](https://img.shields.io/badge/RedHat-FF0000?style=for-the-badge&logo=RedHat&logoColor=Red)
+![FreeBSD](https://img.shields.io/badge/FreeBSD-FF0000?style=for-the-badge&logo=FreeBSD&logoColor=Red)
 
-
-
+## ⚡ My Tech Stacks
 
 <!--
 **pouriatabari/pouriatabari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
