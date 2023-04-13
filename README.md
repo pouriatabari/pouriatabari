@@ -13,20 +13,30 @@
 
 ## ⚡ My Tech Stacks
 
-![Python](https://img.shields.io/badge/-Python-black?style=plastic&logo=Python)
-![Redis](https://img.shields.io/badge/-Redis-black?style=plastic&logo=Redis)
-![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
+![Python](https://img.shields.io/badge/-Python-white?style=plastic&logo=Python)
+![Redis](https://img.shields.io/badge/-Redis-white?style=plastic&logo=Redis)
+![Git](https://img.shields.io/badge/-Git-white?style=plastic&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)
 ![VMWare](https://img.shields.io/badge/-VMware-white?style=plastic&logo=vmware)
 ![kubernetes](https://img.shields.io/badge/-Kubernetes-white?style=plastic&logo=kubernetes)
 ![kafka](https://img.shields.io/badge/-ApacheKafka-black?style=plastic&logo=ApacheKafka)
-<img alt="[VS Code" src="https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code" />
-![HAProxy](https://img.shields.io/badge/-HAProxy-black?style=plastic&logo=HAproxy)
+![HAProxy](https://img.shields.io/badge/-HAProxy-black?style=plastic&logo=HAProxy)
 ![ELK](https://img.shields.io/badge/-ELK-green?style=plastic&logo=Elastic)
 ![CCNA](https://img.shields.io/badge/-CCNA-lightgrey?style=plastic&logo=Cisco)
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=plastic&logo=Docker)
 ![Nginx](https://img.shields.io/badge/-NGINX-blackgreen?style=plastic&logo=Nginx)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-white?style=plastic&logo=RabbitMQ)
+![Terraform](https://img.shields.io/badge/-Terraform-blueviolet?style=plastic&logo=Terraform)
+![KVM](https://img.shields.io/badge/-KVM-white?style=plastic&logo=LinuxKVM)
+![Ansible](https://img.shields.io/badge/-Ansible-black?style=plastic&logo=Ansible)
+![MYSQL](https://img.shields.io/badge/-Mysql-white?style=plastic&logo=Mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-white?style=plastic&logo=MongoDB)
+
+## 🌎 Find me
+- virgol: [virgol posts](https://virgool.io/@ptabari) :mag:
+- blog: click [Pouriya-tabari blogs](https://pouriya-tabari.ir/):earth_asia:
+- email:  <a href="mailto:pouriya_tabari@outlook.com">outlook mail</a>:e-mail:
 
 
 <!--
