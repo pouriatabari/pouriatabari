@@ -1,10 +1,13 @@
 <h1 align="center">Hi I'm Pouriya M. Tabari <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">, a DevOps Engineer</h1>
+
 <p align="center">
 A 27 years old self-taught DevOps in Iran
 </p>
+
 <div id="header" align="center">
   <img src="./devops-logo.png" width="1024"/>
 </div>
+
 <p align="center">
 <a href=https://linkedin.com/in/pouria-mashali-tabari target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/linkedin.png" height="50" width="50" /></a>
 <a href=https://t.me/ptabari target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" height="50" width="50" /></a>
