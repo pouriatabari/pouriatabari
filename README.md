@@ -13,6 +13,22 @@
 
 ## ⚡ My Tech Stacks
 
+![Python](https://img.shields.io/badge/-Python-black?style=plastic&logo=Python)
+![Redis](https://img.shields.io/badge/-Redis-black?style=plastic&logo=Redis)
+![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)
+![VMWare](https://img.shields.io/badge/-VMware-white?style=plastic&logo=vmware)
+![kubernetes](https://img.shields.io/badge/-Kubernetes-white?style=plastic&logo=kubernetes)
+![kafka](https://img.shields.io/badge/-ApacheKafka-black?style=plastic&logo=ApacheKafka)
+<img alt="[VS Code" src="https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code" />
+![HAProxy](https://img.shields.io/badge/-HAProxy-black?style=plastic&logo=HAproxy)
+![ELK](https://img.shields.io/badge/-ELK-green?style=plastic&logo=Elastic)
+![CCNA](https://img.shields.io/badge/-CCNA-lightgrey?style=plastic&logo=Cisco)
+![Docker](https://img.shields.io/badge/-Docker-blue?style=plastic&logo=Docker)
+![Nginx](https://img.shields.io/badge/-NGINX-blackgreen?style=plastic&logo=Nginx)
+
+
 <!--
 **pouriatabari/pouriatabari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
