@@ -1,7 +1,7 @@
 # <h1 align="center">Hi I'm Pouriya M. Tabari <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">, a DevOps Engineer</h1>
 
 <div id="header" align="center">
-  <img src="https://www.talent-works.com/wp-content/uploads/2021/03/3981-TW-Blog-Why-Hire-a-DevOps-engineer_BLOG-HEADER-1920x629-v1.png" width="1024"/>
+  <img src="./devops-logo.png" width="1024"/>
 </div>
 
 ## ⚡ My Platforms
