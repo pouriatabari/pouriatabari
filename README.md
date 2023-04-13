@@ -5,7 +5,7 @@ A 27 years old self-taught DevOps in Iran
 </p>
 
 <div id="header" align="center">
-  <img src="./devops-logo.png" width="1024"/>
+  <img src="./devops-logo.png" width="720"/>
 </div>
 
 <p align="center">
