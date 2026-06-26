@@ -11,7 +11,7 @@ A 29 years old self-taught DevOps in Iran
 <p align="center">
 <a href=https://linkedin.com/in/pouria-mashali-tabari target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/linkedin.png" height="50" width="50" /></a>
 <a href=https://t.me/ptabari target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" height="50" width="50" /></a>
-<a href=https://www.youtube.com/@devopsbazi target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/youtube.png" height="50" width="50" /></a>
+<a href=https://www.youtube.com/@opsbypouriya target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/youtube.png" height="50" width="50" /></a>
 </p>
 
 <p align="center">
